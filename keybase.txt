@@ -6,47 +6,66 @@ I hereby claim:
 
   * I am an admin of https://circlewithadot.net
   * I am incentivemusic (https://keybase.io/incentivemusic) on keybase.
-  * I have a public key ASDfkQrwom2IhK14nIvPQuURpP3NA6iANW7G_toPyhtJOwo
+  * I have a public key with fingerprint F95F 3FD0 30C9 A03C 2DF7  3103 97B6 1EF8 D87D 7841
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120df910af0a26d8884ad789c8bcf42e511a4fdcd03a880356ec6feda0fca1b493b0a",
+      "eldest_kid": "0120a0c7896ec4cc2d2c24d7bcf6e274e5dc993fd340f0140c31ff3c5dd70c56cfa90a",
+      "fingerprint": "f95f3fd030c9a03c2df7310397b61ef8d87d7841",
       "host": "keybase.io",
-      "kid": "0120df910af0a26d8884ad789c8bcf42e511a4fdcd03a880356ec6feda0fca1b493b0a",
+      "key_id": "97b61ef8d87d7841",
+      "kid": "010138470eca9c240811d93133b38cfa22069ea6f4f514ab2903aa5c3fa60da0000f0a",
       "uid": "53e8597600ff6ba076071f30fdd59919",
       "username": "incentivemusic"
     },
-    "merkle_root": {
-      "ctime": 1647845612,
-      "hash": "05af01edf28494a262eb425db7d0d8ab4d2cedb79ca176e37848cd48aa765dab865309240df92f32907db2d6df988e32bb023826decfcc5e8b6597c31c0eda8b",
-      "hash_meta": "c8eca3d4c74e70afbda37b854ae4c2b9d3ff68da6268abff15061b252bab9063",
-      "seqno": 22127596
-    },
     "service": {
-      "entropy": "Xlhp1QT9SjtILYVVnb0XdYHz",
       "hostname": "circlewithadot.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.9.3"
-  },
-  "ctime": 1647845649,
-  "expire_in": 504576000,
-  "prev": "0ae6d87ae7723822fb974bd99dd8d63161c4faae053412906907b8e2c749aa33",
-  "seqno": 5,
+  "ctime": 1700984203,
+  "expire_in": 157680000,
+  "prev": "0980b4781b01ef83b4a45c7eb43acb70e8bb81c3c7a2ca19b20ed72dbef96743",
+  "seqno": 39,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg35EK8KJtiISteJyLz0LlEaT9zQOogDVuxv7aD8obSTsKp3BheWxvYWTESpcCBcQgCubYeudyOCL7l0vZndjWMWHE+q4FNBKQaQe44sdJqjPEILEk9uaQK0nfmbJXcS+hGkCVvO2Kwy8vhJIj+jdHxvA6AgHCo3NpZ8RAlfSujOum3skbomP+qSmBxCI1fU4tGRtYJ2gK9ZBNemSbQl7OgOZxPNQhKogBam6eUG1YeRxkawUj9y0mqzgfCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPSk9VJIsWE2fXqPPRu6XBVg0leamOuL6KlM/gS++EDfo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN6AnicbVJtTBRHGAaKlk9BYrFNK+BGkhKBzu7s3u6e4fCoJbQ1LUkLVcTi7uzs
+sYB7x90eIt/USkREWm0s+EETLQJVFEqRhmIRJYUEi21U0tRWi8SCBLWUSAgQ6C7R
+f50/M/O+z/PM8z6ZvsAXPPw8v7wUNvtbcb7Vc7D3a7cHFp9WFRKiXdpLmAuJbLy8
+4RwJu7SMbEUizAQgKSAAxHK8CSMaIUqiEEVLrIhkE6ZYGjMS4nkoS5AGMiBpgCAp
+yxAxksQCxJiQLPBAIKIJWVFt2OlwKqqmy8o8I+skAAHiBQB1WZmFJIA8K5pILHMS
+x0osR5M6MdPuMhi6OVFw4VjFrtf0S8ayvf/BP/cNSMjRLMBI4HXHgCNJiYckhCLk
+dFMUBUw8FkwyLTMkLYgUD6AgMAjKgglIAtCXvOzbvSzHQMwxPGvSq7JJFIB+YkkZ
+AlmSGJ4neQPowk5V2I11tKIirGpKHt7tdimIKI4m9F6egrARrzHPMxxSnCgH71G0
+TEGya7Eq1nQdh9Ou2ZE9R+9naprDZTb42l6HQdiDxYxnUhmiokp6pjojDztdil0l
+zKSORJpiaJMsADxHUwBGEzjfoThxhmIgGNbEGcMZ7+A8IyieAyLNcqQIjCChSAs0
+g1gs0lBAop4fJ4ociSBiBQoJJC9SAEssJYlY5k0sDQljuFzVTpghr/sUbLqmS7Gp
+guZ2YqL4am+6t4enn8fKFV7GZ/Pw8w1+/gX7coKWtkT1RzclPK28vW1k5UL7K9TY
+kTUVdNKp2kZnyoVj2T2ZVSmpUZEf1rYG94RNtEhx844nY4mNTvvgpu+DRh5Nr18r
+cquLqxse7P/zdNpJS0FFqPmLnsMBZd655Unxtakdv9Yc/riIbEvNfNi7Yb3Vfn3X
+w6nZSa84W0T2B3RZ0mfjdfEXx5JCBip3Hqzzlj5ZGLJVnmk981etxa+p/quGrDbb
+Dt/Ro+XTN9obOtdlDQWU+PrlpKmrSof9Y4cKGFFdG/m4K/7Edz/NNc+c2jqrdVlv
+H71Zn3xtytIVMv7g8n7fcyesWsub73f5p5dWOCwvau5bsRf7m3eseL1jkf2nsbIk
+6GrT8Wl8aSq9I7RZra3pS51wB797b17TMixxyZcPNIy+s4hiIvaFne/kwqOyt3Z6
+EcPjV2wv/7yx/rVf5G7h8a4xe8FNj38Zd37Ck/wJefpu+NSG3JlbbZ/WvOEfwp3j
+jwVeKSz5SFLrNtbCrJQ/uFan2WaNXBcRbA3wmbScj96WuDPnpR8mfjy45P352eql
+4hnft6rBdhDZOrrmbELLjNunqml+oN07cvVw5eRA+VzYo4YL4GR35J3Ng9tfLbp7
+YJM18Q6MCbz3+0h8s2VkIWbVobYilJxmK624nuaZbSaT9h0JPv53eO+Wt/uvlee/
+dz80Bt3fPOBjHeg+/e03i9MBN+Ymylz/AWhax5g=
+=A2Wu
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
